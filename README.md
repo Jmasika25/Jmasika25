@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Judetadeus Masika, Experienced in the use of statistical packages such as SPSS, STATA, SAS and R-studio. I also use programming languages such as Python and R-studio for data manipulation, wrangling and analysis, Power BI for data visualization and presentation. I also use Postgresql for database management. 
+My name is Judetadeus Masika, I am graduate in Statistics and Actuarial Science and a Postgraduate in Applied Statistics and Computer Applications. I am a Data Analyst and Data Scientist experienced in the use of statistical packages such as SPSS, STATA, SAS and R-studio. I also use programming languages such as Python and R-studio for data manipulation, wrangling and analysis, Power BI for data visualization and presentation. I also use Postgresql for database management.
+
+My future endeavours are to be a technical Risk analyst and Project Manager.
 
 ### 🔭 A little more about me ...
   
