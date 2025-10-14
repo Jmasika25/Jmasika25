@@ -2,6 +2,10 @@
 
 My name is Judetadeus Masika, I'm a graduate in Statistics and Actuarial Science. I'm a Data Analyst and Data Scientist experienced in the use of statistical packages such as SPSS, STATA, SAS and R-studio. I also use programming languages such as Python and R-studio for data manipulation, wrangling and analysis, Power BI for data visualization and presentation. I also use Postgresql for database management.
 
+Link to my Certification
+
+https://verify.apac.certifyme.org/verify/d58cff6324140
+
 My future endeavours are to be a technical Risk analyst and Project Manager.
 
 ### 🔭 A little more about me ...
